@@ -1,4 +1,4 @@
-# General Mahjong Rules
+# General Riichi Mahjong Rules
 
 * Tiles
   * There are four of each tile
