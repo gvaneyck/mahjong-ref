@@ -17,10 +17,10 @@
     you are waiting on to complete your hand are called waits
   * You either need to draw your winning tile (Tsumo) or have another player discard
     it (Ron) when you are in Tenpai
-  * There are some rare exceptions to this, see the various Yaku
+  * There are some rare exceptions to hand composition, see the various Yaku
 * A Yaku is some criteria on the composition of your hand to make it qualified
   * The easiest way to get a Yaku is to not make calls and keep your hand closed.
-    This enabled Riichi which is a Yaku on any hand regardless of composition.
+    This enables Riichi which is a Yaku on any hand regardless of exact composition.
     See [Closed-Only Yaku](README-closed-only-yaku.md)
   * Making calls may make your hand easier to complete, but reduce the value and restrict
     your Yaku options.  See [Open Yaku](README-open-yaku.md)
