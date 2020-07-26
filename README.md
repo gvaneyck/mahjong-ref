@@ -1,3 +1,5 @@
+These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.game.yo-star.com/)
+
 # General Riichi Mahjong Rules
 
 * Tiles
