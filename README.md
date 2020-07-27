@@ -68,7 +68,7 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
     it
   * If you do not claim **Ron** on one of your opponents (because you don't want to steal
     their points or something), you have to wait until after your next discard before
-    you can claim **Ron** again.  If you are in **Riichi**, you can never claim **Ron** and have
+    you can claim **Ron** again.  If you are in **Riichi** and do this, you can never claim **Ron** and have
     to wait for **Tsumo**
 * End of game
   * The game ends after all four players have been dealer at least once (East game,
