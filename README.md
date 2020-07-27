@@ -52,7 +52,7 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
     See the top left under the **Dora**
   * If the dealer wins, they get 50% points than the hand would normally get
   * If you win via **Tsumo**, all players pay you points with the dealer paying a larger share
-  * If you win via **Ron**, the player that discarded your winning tile pays the points
+  * If you win via **Ron**, the player that discarded your winning tile pays all the points
   * See [Bonus Han](README-bonus-han.md) for additional Han options
 * Draws
   * If no one wins after the last tile is discarded, players in **Tenpai** split 3000 points
