@@ -41,15 +41,15 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
   * **Pon** - You can call this when anyone discards a tile that you can make a triplet from.
     This may skip over other players
   * **Kan** - You can call this when anyone discards a tile that you can make four of a kind
-    from.  After calling **Kan**, another Dora indicator is revealed and you draw an extra
+    from.  After calling **Kan**, another **Dora** indicator is revealed and you draw an extra
     tile to preserve your hand size
   * **Concealed Kan** - If you draw the fourth tile, on any of your turns you can call **Kan**.
     This does not open your hand, but otherwise works like a normal **Kan**
 * Once you have won your hand you receive points from your opponents based on its value
-  * A rough rule of thumb is you get 1000 points for each Han you had
+  * A rough rule of thumb is you get 1000 points for each **Ron** you had
   * If other players called **Riichi**, you take their 1000 point ante
   * If the dealer (East seat) is on a winning streak, 300 point bonuses start stacking up.
-    See the top left under the Dora
+    See the top left under the **Dora**
   * If the dealer wins, they get 50% points than the hand would normally get
   * If you win via **Tsumo**, all players pay you points with the dealer paying a larger share
   * If you win via **Ron**, the player that discarded your winning tile pays the points

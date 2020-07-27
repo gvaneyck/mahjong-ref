@@ -1,6 +1,6 @@
 # Open Yaku
 
-These are **Yaku** where it is OK to make **calls**.  Some of them are worth more Han if you
+These are **Yaku** where it is OK to make **calls**.  Some of them are worth more **Ron** if you
 do not make any **calls**
 
 ---
