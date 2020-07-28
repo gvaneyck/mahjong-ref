@@ -53,4 +53,4 @@ Thirteen-Wait is having one of each and waiting for the pair on any of them
 Win on your first turn as dealer/non-dealer with no **calls** being made
 
 ### Mangan at Draw (special)
-Win having only discarded honor and terminal tiles AND no one **call**ed any of them
+Win having only discarded honor and terminal tiles AND no one **called** any of them

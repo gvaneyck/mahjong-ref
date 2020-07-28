@@ -22,7 +22,7 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
   * There are some rare exceptions to hand composition, see the various **Yaku**
 * A **Yaku** is some criteria on the composition of your hand to make it qualified
   * The easiest way to get a **Yaku** is to not make **calls** and keep your hand closed.
-    This enables **Riichi** which is a **Yaku** on any hand in **Tenpai** regardless of exact 
+    This enables **Riichi** which is a **Yaku** on any hand in **Tenpai** regardless of exact
     composition.
     See [Closed-Only Yaku](README-closed-only-yaku.md)
   * Making **calls** may make your hand easier to complete, but reduce the value and restrict
@@ -76,3 +76,5 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
   * The dealer (East seat) only changes if the dealer loses the hand/loses points
   * If after the last dealer round no players have 30000 points, play continues until
     someone does
+
+See [General Strategies](README-general-strategies.md) for some beginner advice
