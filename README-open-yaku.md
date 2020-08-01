@@ -34,7 +34,7 @@ Have four triplets.  Worth Yakuman if you don't make any **calls**, see
 [Four Concealed Triplets](README-lucky-or-difficult-yaku.md)
 
 ### Triple Triplets (2 Han)
-Three triplets with the same number in the three suits, e.g. 222 **Man** + 222 **Man** + 222 **Man**
+Three triplets with the same number in the three suits, e.g. 222 **Man** + 222 **Pin** + 222 **Sou**
 
 ### Three Concealed Triplets (2 Han)
 Three triplets that have not been revealed by **calls**
