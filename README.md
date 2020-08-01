@@ -47,13 +47,14 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
     This does not open your hand, but otherwise works like a normal **Kan**
 * Once you have won your hand you receive points from your opponents based on its value
   * A rough rule of thumb is you get 1000 points for each **Han** you had
-  * If other players called **Riichi**, you take their 1000 point ante
-  * If the dealer (East seat) is on a winning streak, 300 point bonuses start stacking up.
-    See the top left under the **Dora**
-  * If the dealer wins, they get 50% points than the hand would normally get
+  * If other players called **Riichi**, you take their 1000 point ante.  See the red dot stick
+    count in the top left under the **Dora** indicators
+  * If the dealer (East seat) wins or draws, 300 point bonuses start stacking up.
+    See the black dots stick count in the top left under the **Dora** indicators
+  * If the dealer wins, they get an extra 50% points than the hand would normally get
   * If you win via **Tsumo**, all players pay you points with the dealer paying a larger share
   * If you win via **Ron**, the player that discarded your winning tile pays all the points
-  * See [Bonus Han](README-bonus-han.md) for additional Han options
+  * See [Bonus **Han**](README-bonus-han.md) for additional **Han** options
 * Draws
   * If no one wins after the last tile is discarded, players in **Tenpai** split 3000 points
     from players not in **Tenpai** (**Noten**).  You do not need a **Yaku** to be in **Tenpai**
@@ -62,6 +63,7 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
   * If a player starts with nine different terminal and honor tiles, they may choose
     to reveal their hand and force a draw
   * Any **Riichi** antes stay in the pot until someone wins a hand
+  * The dealer stick count will always increase for a draw
 * **Furiten**
   * If one of your wait tiles has been discarded by you, you are not allowed to call **Ron**
     to win.  You'll have to either **Tsumo** or change the tiles you're waiting to win
@@ -72,7 +74,8 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
 * End of game
   * The game ends after all four players have been dealer at least once (East game,
     one round of dealers) or twice (South game, two rounds of dealers)
-  * The dealer (East seat) only changes if the dealer loses the hand/loses points
+  * The dealer (East seat) does not change if the dealer wins the hand, is in Tenpai
+    when the wall runs out of tiles, or if there is a draw
   * If after the last dealer round no players have 30000 points, play continues until
     someone does
 
