@@ -12,7 +12,7 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
   * **Honors** - **Winds** & **Dragons**
   * **Yakuhai** - **Dragons** & Seat **Wind** & Prevalent **Wind**, see [Open Yaku](README-open-yaku.md)
 * To win a hand, you need a **completed hand** and at least one **Yaku**
-* A **completed hand** in one that has four triplets and/or sequences and a pair
+* A **completed hand** is one that has four triplets and/or sequences and a pair
   * Triplets are three of the same tile, e.g. 333 **Sou** or NNN **wind** tiles
   * Sequences can only be made from suits, e.g. 123 **Sou** or 345 **Man**
   * When you are one tile away from completing your hand, you are in **Tenpai**.  The tile(s)
@@ -46,7 +46,7 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
   * **Concealed Kan** - If you draw the fourth tile, on any of your turns you can call **Kan**.
     This does not open your hand, but otherwise works like a normal **Kan**
 * Once you have won your hand you receive points from your opponents based on its value
-  * A rough rule of thumb is you get 1000 points for each **Ron** you had
+  * A rough rule of thumb is you get 1000 points for each **Han** you had
   * If other players called **Riichi**, you take their 1000 point ante
   * If the dealer (East seat) is on a winning streak, 300 point bonuses start stacking up.
     See the top left under the **Dora**
@@ -63,9 +63,8 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
     to reveal their hand and force a draw
   * Any **Riichi** antes stay in the pot until someone wins a hand
 * **Furiten**
-  * If one of your wait tiles has been discarded by you, you are not allowed to complete
-    your hand.  You'll have to change the tiles you're waiting on if you want to complete
-    it
+  * If one of your wait tiles has been discarded by you, you are not allowed to call **Ron**
+    to win.  You'll have to either **Tsumo** or change the tiles you're waiting to win
   * If you do not claim **Ron** on one of your opponents (because you don't want to steal
     their points or something), you have to wait until after your next discard before
     you can claim **Ron** again.  If you are in **Riichi** and do this, you can never claim **Ron** and have
