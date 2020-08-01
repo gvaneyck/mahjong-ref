@@ -13,6 +13,8 @@ These are some loose guidelines to follow when getting started
   * **Pure Straight** - One through nine in a suit
   * **Dragons**, **Prevalent Wind**, **Seat Wind** - Have a triplet that gives you a **Yaku**.
     This is a very easy way to win quickly
+  * **Pinfu** - [**Pinfu**](README-closed-only-yaku.md) is a complicated hand, but combines easily
+    with other **Han** for a possibly high scoring hand
 * When to **call**
   * Whenever you **call**, you're giving up a draw for the tile you're **calling**, so
     make sure it improves your hand, e.g. don't **call** **Chii** on a 6 **Sou** when you
