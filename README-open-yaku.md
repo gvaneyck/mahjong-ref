@@ -37,5 +37,5 @@ Have four triplets.  Worth Yakuman if you don't make any **calls**, see
 Three triplets with the same number in the three suits, e.g. 222 **Man** + 222 **Man** + 222 **Man**
 
 ### Three Concealed Triplets (2 Han)
-Three triplets that have not been revealed
+Three triplets that have not been revealed by **calls**
 
