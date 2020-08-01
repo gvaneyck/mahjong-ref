@@ -66,9 +66,9 @@ These rules and UI references are based on [Mahjong Soul](https://mahjongsoul.ga
   * If one of your wait tiles has been discarded by you, you are not allowed to call **Ron**
     to win.  You'll have to either **Tsumo** or change the tiles you're waiting to win
   * If you do not claim **Ron** on one of your opponents (because you don't want to steal
-    their points or something), you have to wait until after your next discard before
-    you can claim **Ron** again.  If you are in **Riichi** and do this, you can never claim **Ron** and have
-    to wait for **Tsumo**
+    their points or are going for a more valuable wait), you have to wait until after your
+    next discard before you can claim **Ron** again.  If you are in **Riichi** and do this, 
+    you can never claim **Ron** and have to wait for **Tsumo**
 * End of game
   * The game ends after all four players have been dealer at least once (East game,
     one round of dealers) or twice (South game, two rounds of dealers)
