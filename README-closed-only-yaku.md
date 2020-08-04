@@ -6,7 +6,7 @@ These are **Yaku** that are only possible if you never **call** any tiles until 
 ---
 
 ### Fully Concealed Hand (1 Han)
-Draw the winning tile yourself (**Tsumo**)
+Draw the winning tile yourself (**Tsumo**) without making any calls
 
 ### Riichi (1 Han)
 When in **Tenpai**, ante 1000 points which will go to the winner.  You are no longer allowed
@@ -19,8 +19,8 @@ not prevalent **wind**, not **dragon**)
 
 ### Pure/Twice Pure Double Sequence (1/3 Han)
 An identical sequence twice in the same suit.  Twice Pure if done twice,
-e.g. 112233 **Man** + 223344 **Man** + any pair
+e.g. 112233 **Man** + 223344 **Man** + any pair.  Twice Pure is worth an additional
+two **Han** for also being seven pairs
 
 ### Seven Pairs (2 Han)
 Have seven pairs
-

@@ -19,6 +19,9 @@ Complete any hand with the last tile discarded in the round
 ### Double Riichi (2 Han)
 Call **Riichi** on your first turn before drawing
 
+### Three Concealed Triplets (2 Han)
+Have three triplets in hand.  Can easily get two more **Han** from All Triplets
+
 ### Little/Big Three Dragons (2 Han/Yakuman)
 Two **dragon** triplets and a pair of the last one.  Big is having all three **dragon** triplets
 
